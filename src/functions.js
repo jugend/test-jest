@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-module.exports = functions = {
+module.exports = {
   add: (num1, num2) => {
     return num1 + num2
   },
