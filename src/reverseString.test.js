@@ -1,9 +1,9 @@
 const reverseString = require('./reverseString')
 
-const initDatabase = () => console.log('>> init database')
-const closeDatabase = () => console.log('>> close database')
+const initDatabase = () => {}
+const closeDatabase = () => {}
 
-describe('Test Group', function() {
+describe('Test Group', () => {
   beforeEach(() => {
     initDatabase()
   })
