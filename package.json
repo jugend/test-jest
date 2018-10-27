@@ -23,8 +23,10 @@
     "babel-jest": "^23.6.0",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
+    "jest-dom": "^2.1.0",
     "react-test-renderer": "^16.5.2",
     "react-testing-library": "^5.2.0",
-    "regenerator-runtime": "^0.12.1"
+    "regenerator-runtime": "^0.12.1",
+    "snapshot-diff": "^0.4.0"
   }
 }

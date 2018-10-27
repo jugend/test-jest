@@ -1,4 +1,4 @@
-const testfunc = require('./functions')
+const testfunc = require('../functions')
 
 test('Should be equal', () => {
   expect(testfunc.add(5, 2)).toBe(7)

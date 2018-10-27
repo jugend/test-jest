@@ -1,4 +1,4 @@
-const reverseString = require('./reverseString')
+const reverseString = require('../reverseString')
 
 const initDatabase = () => {}
 const closeDatabase = () => {}
