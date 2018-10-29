@@ -11,9 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
+    "emotion": "^9.2.12",
     "jest": "^23.6.0",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "react-emotion": "^9.2.12"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
@@ -21,9 +23,11 @@
     "@babel/preset-react": "^7.0.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
+    "babel-plugin-emotion": "^9.2.11",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "jest-dom": "^2.1.0",
+    "jest-emotion": "^9.2.11",
     "react-test-renderer": "^16.5.2",
     "react-testing-library": "^5.2.0",
     "regenerator-runtime": "^0.12.1",

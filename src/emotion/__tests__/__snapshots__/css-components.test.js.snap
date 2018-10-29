@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component with css 1`] = `
+.emotion-0 {
+  color: blue;
+  border: 1px solid blue;
+}
+
+<button
+  class="emotion-0"
+  data-testid="blue-button"
+>
+  Hello World
+</button>
+`;

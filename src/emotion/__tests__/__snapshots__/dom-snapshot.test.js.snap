@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`jest snapshot printer prints DOM elements 1`] = `
+.emotion-1 {
+  color: red;
+}
+
+.emotion-0 {
+  background-color: blue;
+}
+
+<div
+  class="emotion-1"
+>
+  <input
+    class="emotion-0"
+  />
+</div>
+`;
+
+exports[`jest snapshot printer prints React elements 1`] = `
+.emotion-1 {
+  color: red;
+}
+
+.emotion-0 {
+  background-color: blue;
+}
+
+<div
+  className="emotion-1"
+>
+  <input
+    className="emotion-0"
+  />
+</div>
+`;

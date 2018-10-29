@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render button with dynamic prop 1`] = `
+.emotion-0 {
+  border: 1px solid cyan;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  >
+    Bordered Button
+  </button>
+</div>
+`;
+
+exports[`should render component with css 1`] = `
+.emotion-0 {
+  color: blue;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  >
+    Blue Button
+  </button>
+</div>
+`;
